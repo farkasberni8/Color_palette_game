@@ -7,5 +7,5 @@
 <br>
 Enjoy the game!🏆
 <br><br><br><br>
-<img src="https://github.com/farkasberni8/Color_palette_game/blob/main/images/game_home.png" width="450" height="550"/> <img src="https://github.com/farkasberni8/Color_palette_game/blob/main/images/game_help.png" width="450" height="550"/>
+<img src="https://github.com/farkasberni8/Color_palette_game/blob/main/images/game_home.png" width="350" height="450"/> <img src="https://github.com/farkasberni8/Color_palette_game/blob/main/images/game_help.png" width="350" height="450"/>
 </p>
