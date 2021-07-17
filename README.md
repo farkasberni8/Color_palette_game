@@ -1,1 +1,1 @@
-# Color_palette_game
+# Color_palette_game 🎨🖱⏳
