@@ -1,5 +1,5 @@
 # Color_palette_game 🎨🖱⏳
-### Start and click the colors from the palette(bottom) to fill the top left pixel (and others like it) with the same color.
+### Click on the colors from the palette(bottom) to fill the pixels with the same color, starting from the top left corner.
 🎨You can choose a number for how many colors want to play with. <br><br>
 🖱You have a limited number (16) of moves to paint the board and win the game! <br><br>
 ⏳Try to win as soon as possible! <br><br>
